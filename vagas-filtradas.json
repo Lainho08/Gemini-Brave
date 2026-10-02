@@ -1,0 +1,205 @@
+{
+  "dataExecucao": "2026-09-30T23:50:52.428Z",
+  "criterios": {
+    "areasAlvo": [
+      "Suporte de TI / Help Desk / Service Desk",
+      "Analista de Sistemas Júnior",
+      "Desenvolvimento Júnior"
+    ],
+    "senioridadeAlvo": [
+      "Júnior",
+      "Trainee",
+      "Estágio"
+    ],
+    "filtroLocalizacao": "todas",
+    "priorizarRemoto": true
+  },
+  "resumo": {
+    "totalAnalisadas": 10,
+    "compativeis": 2,
+    "parcialmenteCompativeis": 1,
+    "semInformacoesSuficientes": 7
+  },
+  "grupos": {
+    "compativeis": [
+      {
+        "titulo": "Analista de Suporte Junior - Service Desk",
+        "empresa": "UNIÃO QUÍMICA",
+        "local": "Valparaíso de Goiás / GO",
+        "nivel": "Técnico",
+        "link": "https://www.vagas.com.br/vagas/v2834795/analista-de-suporte-junior-service-desk",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [
+          "Suporte de TI / Help Desk / Service Desk"
+        ],
+        "palavrasChaveDetectadas": [
+          "service desk",
+          "analista de suporte",
+          "suporte",
+          "junior",
+          "júnior"
+        ],
+        "motivoClassificacao": "Cargo alvo e nível júnior explicitamente identificados nos dados extraídos."
+      },
+      {
+        "titulo": "Analista de Sistemas Júnior",
+        "empresa": "State Grid Brazil Holding",
+        "local": "Rio de Janeiro / RJ",
+        "nivel": "Júnior/Trainee",
+        "link": "https://www.vagas.com.br/vagas/v2833442/analista-de-sistemas-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [
+          "Analista de Sistemas Júnior"
+        ],
+        "palavrasChaveDetectadas": [
+          "analista de sistemas",
+          "sistemas junior",
+          "sistemas júnior",
+          "junior",
+          "júnior",
+          "trainee"
+        ],
+        "motivoClassificacao": "Cargo alvo e nível júnior explicitamente identificados nos dados extraídos."
+      }
+    ],
+    "parcialmenteCompativeis": [
+      {
+        "titulo": "Analista de TI - Júnior",
+        "empresa": "ALLOS",
+        "local": "São Paulo / SP",
+        "nivel": "Estágio",
+        "link": "https://www.vagas.com.br/vagas/v2835539/analista-de-ti-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [
+          "TI / Tecnologia Geral"
+        ],
+        "palavrasChaveDetectadas": [
+          "analista de ti",
+          "ti",
+          "junior",
+          "júnior",
+          "estagio",
+          "estágio"
+        ],
+        "motivoClassificacao": "Vaga na área de TI/Tecnologia, porém o título é generalista e não especifica se a função é em Suporte, Sistemas ou Desenvolvimento."
+      }
+    ],
+    "semInformacoesSuficientes": [
+      {
+        "titulo": "Analista de Logística Junior",
+        "empresa": "Confidencial",
+        "local": "Rio de Janeiro / RJ",
+        "nivel": "Júnior/Trainee",
+        "link": "https://www.vagas.com.br/vagas/v2833383/analista-de-logistica-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [],
+        "palavrasChaveDetectadas": [
+          "junior",
+          "júnior",
+          "trainee"
+        ],
+        "motivoClassificacao": "Não foram identificadas palavras-chave das áreas de Suporte, Sistemas ou Desenvolvimento nos dados extraídos."
+      },
+      {
+        "titulo": "Analista Administrativo Júnior",
+        "empresa": "Confidencial",
+        "local": "Rio de Janeiro / RJ",
+        "nivel": "Júnior/Trainee",
+        "link": "https://www.vagas.com.br/vagas/v2830117/analista-administrativo-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [],
+        "palavrasChaveDetectadas": [
+          "junior",
+          "júnior",
+          "trainee"
+        ],
+        "motivoClassificacao": "Não foram identificadas palavras-chave das áreas de Suporte, Sistemas ou Desenvolvimento nos dados extraídos."
+      },
+      {
+        "titulo": "Analista de Planejamento Júnior",
+        "empresa": "Tetra Tech América do Sul",
+        "local": "São Paulo / SP",
+        "nivel": "Júnior/Trainee",
+        "link": "https://www.vagas.com.br/vagas/v2836067/analista-de-planejamento-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [],
+        "palavrasChaveDetectadas": [
+          "junior",
+          "júnior",
+          "trainee"
+        ],
+        "motivoClassificacao": "Não foram identificadas palavras-chave das áreas de Suporte, Sistemas ou Desenvolvimento nos dados extraídos."
+      },
+      {
+        "titulo": "Analista Contábil Júnior",
+        "empresa": "Grupo Guanabara",
+        "local": "Rio de Janeiro / RJ",
+        "nivel": "Júnior/Trainee",
+        "link": "https://www.vagas.com.br/vagas/v2825790/analista-contabil-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [],
+        "palavrasChaveDetectadas": [
+          "junior",
+          "júnior",
+          "trainee"
+        ],
+        "motivoClassificacao": "Não foram identificadas palavras-chave das áreas de Suporte, Sistemas ou Desenvolvimento nos dados extraídos."
+      },
+      {
+        "titulo": "Analista de Pessoal Júnior",
+        "empresa": "ALLOS",
+        "local": "Rio de Janeiro / RJ",
+        "nivel": "Júnior/Trainee",
+        "link": "https://www.vagas.com.br/vagas/v2837092/analista-de-pessoal-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [],
+        "palavrasChaveDetectadas": [
+          "junior",
+          "júnior",
+          "trainee"
+        ],
+        "motivoClassificacao": "Não foram identificadas palavras-chave das áreas de Suporte, Sistemas ou Desenvolvimento nos dados extraídos."
+      },
+      {
+        "titulo": "Analista Contábil Júnior",
+        "empresa": "JOBCENTER DO BRASIL LTDA",
+        "local": "São Paulo / SP",
+        "nivel": "Júnior/Trainee",
+        "link": "https://www.vagas.com.br/vagas/v2835927/analista-contabil-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [],
+        "palavrasChaveDetectadas": [
+          "junior",
+          "júnior",
+          "trainee"
+        ],
+        "motivoClassificacao": "Não foram identificadas palavras-chave das áreas de Suporte, Sistemas ou Desenvolvimento nos dados extraídos."
+      },
+      {
+        "titulo": "Analista Fiscal Junior",
+        "empresa": "Razac",
+        "local": "São Paulo / SP",
+        "nivel": "Júnior/Trainee",
+        "link": "https://www.vagas.com.br/vagas/v2835149/analista-fiscal-junior",
+        "remoto": false,
+        "hibrido": false,
+        "areasDetectadas": [],
+        "palavrasChaveDetectadas": [
+          "junior",
+          "júnior",
+          "trainee"
+        ],
+        "motivoClassificacao": "Não foram identificadas palavras-chave das áreas de Suporte, Sistemas ou Desenvolvimento nos dados extraídos."
+      }
+    ]
+  }
+}

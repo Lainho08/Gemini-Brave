@@ -1,0 +1,303 @@
+{
+  "dadosProfissionais": {
+    "nome": "Lázaro Feitosa Santos",
+    "cidade": "Canindé de São Francisco",
+    "estado": "SE",
+    "telefone": "(79) 99853-5490",
+    "email": "lazarofeitosa10@hotmail.com",
+    "modeloTrabalhoPreferencial": "Remoto / Híbrido / Presencial",
+    "links": {
+      "github": "https://github.com/Lainho08",
+      "linkedin": "https://www.linkedin.com/in/lázaro-feitosa-400879386",
+      "portfolio": ""
+    }
+  },
+  "objetivoProfissional": "Desenvolvedor de Software Júnior | Desenvolvedor Backend / Frontend | Analista de Suporte Júnior | Help Desk / Service Desk",
+  "cargosAlvo": [
+    "Desenvolvedor de Software Júnior",
+    "Desenvolvedor Backend Júnior",
+    "Desenvolvedor Frontend Júnior",
+    "Analista de Suporte Júnior",
+    "Help Desk / Service Desk",
+    "Suporte Técnico",
+    "Analista de Sistemas Júnior"
+  ],
+  "resumoProfissional": "Profissional de TI e graduando em Sistemas de Informação com vivência prática no desenvolvimento de software, automação de processos, infraestrutura de redes, suporte técnico N1/N2 e bancos de dados relacionais. Atuação no setor público e privado com gestão de chamados no GLPI, desenvolvimento web em JavaScript, criação de fluxos de backend e rotinas em SQL Server e MySQL.",
+  "formacaoAcademica": [
+    {
+      "curso": "Bacharelado em Sistemas de Informação",
+      "instituicao": "Centro Universitário Leonardo da Vinci (UNIASSELVI)",
+      "grau": "Bacharelado",
+      "status": "Graduando (em andamento)",
+      "anoInicio": "",
+      "anoConclusao": "12/2026 (previsão)"
+    }
+  ],
+  "experienciasProfissionais": [
+    {
+      "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+      "cargo": "Técnico em Informática",
+      "nivel": "Técnico",
+      "periodo": {
+        "inicio": "01/2025",
+        "fim": "Presente"
+      },
+      "atividadesRealizadas": [
+        "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+        "Manutenção preventiva e corretiva de mais de 80 computadores e periféricos, substituição de componentes de hardware e padronização de imagens em ambientes Windows 10/11 e Linux.",
+        "Garantia de taxa de disponibilidade de rede superior a 98% através de reestruturação de cabeamento estruturado (crimpage e patch panels), configuração de switches/roteadores e testes de conectividade TCP/IP e DNS.",
+        "Execução de consultas SQL direcionadas para validação, consistência cadastral e auditoria de dados em sistemas públicos.",
+        "Criação de scripts básicos para automatização de tarefas operacionais e rotinas de backup.",
+        "Levantamento de requisitos técnicos e suporte aos sistemas corporativos em produção."
+      ],
+      "tecnologiasUtilizadas": [
+        "SQL",
+        "GLPI",
+        "Windows 10/11",
+        "Linux (Ubuntu, Debian)",
+        "AnyDesk",
+        "TeamViewer",
+        "Cabeamento Estruturado (RJ45)",
+        "TCP/IP",
+        "DNS",
+        "DHCP",
+        "Switches e Roteadores",
+        "Hardware e Periféricos",
+        "Impressoras Térmicas e Multifuncionais"
+      ]
+    },
+    {
+      "empresa": "Sudoeste Informática e Consultoria Ltda.",
+      "cargo": "Estagiário em Desenvolvimento de Software / Suporte a Sistemas",
+      "nivel": "Estágio",
+      "periodo": {
+        "inicio": "01/2024",
+        "fim": "01/2025"
+      },
+      "atividadesRealizadas": [
+        "Atuação direta no ciclo de vida de desenvolvimento de software para aplicações corporativas.",
+        "Criação e manutenção de fluxos de backend e telas com validação de regras de negócio em JavaScript e HTML/CSS.",
+        "Modelagem de dados e elaboração de scripts SQL em SQL Server para consultas, triggers e procedures.",
+        "Atendimento a chamados de sustentação de sistemas empresariais, reduzindo tempo de resolução de inconsistências através de consultas analíticas em SQL Server.",
+        "Construção, manutenção e parametrização de relatórios dinâmicos fiscais e gerenciais com Jasper Reports.",
+        "Documentação de 100% dos manuais de operação e fluxos de processos implementados em novos módulos de software.",
+        "Participação em projetos de automação de documentação de código e análise de desempenho de consultas SQL."
+      ],
+      "tecnologiasUtilizadas": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "SQL Server",
+        "Jasper Reports",
+        "Maker (Low-Code/No-Code)",
+        "Git",
+        "GitHub"
+      ]
+    }
+  ],
+  "conhecimentosTecnicos": {
+    "linguagensDeProgramacao": {
+      "experiencia": [
+        "JavaScript",
+        "SQL",
+        "HTML5",
+        "CSS3"
+      ],
+      "conhecimento": [
+        "Python"
+      ],
+      "emAprendizado": []
+    },
+    "tecnologiasEFrameworks": {
+      "experiencia": [
+        "REST APIs",
+        "Maker (Low-Code/No-Code)"
+      ],
+      "conhecimento": [
+        "Node.js",
+        "Prisma ORM",
+        "APIs de IA"
+      ],
+      "emAprendizado": []
+    },
+    "bancosDeDados": {
+      "experiencia": [
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)"
+      ],
+      "conhecimento": [
+        "SQLite",
+        "Modelagem Relacional"
+      ],
+      "emAprendizado": []
+    },
+    "sistemasOperacionais": {
+      "experiencia": [
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)"
+      ],
+      "conhecimento": [],
+      "emAprendizado": []
+    },
+    "redesEInfraestrutura": {
+      "experiencia": [
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup"
+      ],
+      "conhecimento": [
+        "Fundamentos de Nuvem (Google Cloud Foundations)",
+        "Vercel (deploy em nuvem)",
+        "Render (deploy em nuvem)"
+      ],
+      "emAprendizado": []
+    },
+    "ferramentas": {
+      "experiencia": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub"
+      ],
+      "conhecimento": [],
+      "emAprendizado": []
+    },
+    "hardwareEPerifericos": {
+      "experiencia": [
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO"
+      ],
+      "conhecimento": [],
+      "emAprendizado": []
+    },
+    "metodologias": [
+      "Atendimento N1/N2",
+      "Controle e gestão de SLA",
+      "Modelagem de dados",
+      "Documentação técnica de sistemas e manuais",
+      "Lógica de programação",
+      "Documentação técnica de APIs"
+    ]
+  },
+  "projetos": [
+    {
+      "nome": "FluxChat (Chat em Tempo Real)",
+      "descricao": "Aplicação web de mensageria com autenticação, persistência em banco relacional estruturado via ORM e deploy automatizado em ambientes de produção em nuvem.",
+      "tecnologias": [
+        "JavaScript",
+        "Node.js",
+        "Prisma ORM",
+        "SQLite",
+        "Render",
+        "Vercel"
+      ],
+      "repositorio": "https://github.com/Lainho08"
+    },
+    {
+      "nome": "Otimizador e Analisador de Consultas SQL",
+      "descricao": "Ferramenta desenvolvida para benchmark e medição de tempo de resposta de consultas SQL, auxiliando na identificação de gargalos de performance e índices ausentes.",
+      "tecnologias": [
+        "SQL Server",
+        "Python",
+        "JavaScript"
+      ],
+      "repositorio": ""
+    },
+    {
+      "nome": "AutoDoc (Automação de Documentação Técnica)",
+      "descricao": "Módulo voltado à geração assistida de documentação técnica de software e relatórios estruturados a partir da estrutura do banco de dados.",
+      "tecnologias": [
+        "Maker",
+        "SQL Server",
+        "Jasper Reports",
+        "APIs de IA"
+      ],
+      "repositorio": ""
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Google Cloud Computing Foundations (Cloud, Dados e Infraestrutura)",
+      "instituicao": "Google Cloud",
+      "cargaHoraria": "",
+      "ano": ""
+    },
+    {
+      "nome": "Treinamento em Suporte Técnico e TI",
+      "instituicao": "Escola do Trabalhador 4.0 / Microsoft",
+      "cargaHoraria": "",
+      "ano": ""
+    },
+    {
+      "nome": "Desenvolvimento de Software e Banco de Dados",
+      "instituicao": "Escola do Trabalhador 4.0 / Microsoft",
+      "cargaHoraria": "",
+      "ano": ""
+    },
+    {
+      "nome": "Versionamento de Código com Git e GitHub",
+      "instituicao": "",
+      "cargaHoraria": "",
+      "ano": ""
+    },
+    {
+      "nome": "Resolução Eficaz de Problemas e Liderança",
+      "instituicao": "Wadhwani Skilling",
+      "cargaHoraria": "",
+      "ano": ""
+    }
+  ],
+  "certificacoes": [],
+  "palavrasChaveProfissionais": [
+    "Suporte de TI",
+    "Help Desk",
+    "Service Desk",
+    "Suporte N1/N2",
+    "Atendimento ao Usuário",
+    "GLPI",
+    "Manutenção de Hardware",
+    "Redes de Computadores",
+    "TCP/IP",
+    "DNS",
+    "DHCP",
+    "Windows 10",
+    "Windows 11",
+    "Windows Server",
+    "Linux",
+    "Ubuntu",
+    "Debian",
+    "Impressoras Térmicas",
+    "Cabeamento Estruturado",
+    "Consultas SQL",
+    "SLA",
+    "Diagnóstico de Falhas",
+    "Suporte a Sistemas",
+    "Desenvolvedor Júnior",
+    "Desenvolvedor Backend",
+    "Desenvolvedor Frontend",
+    "Programador",
+    "JavaScript",
+    "Python",
+    "SQL Server",
+    "MySQL",
+    "SQLite",
+    "HTML5",
+    "CSS3",
+    "Git",
+    "GitHub",
+    "REST APIs",
+    "Prisma ORM",
+    "Jasper Reports",
+    "Modelagem de Dados",
+    "Low-Code Maker"
+  ]
+}

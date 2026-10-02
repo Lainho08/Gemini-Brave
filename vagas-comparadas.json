@@ -1,0 +1,1542 @@
+{
+  "dataAnalise": "2026-10-02T01:15:35.612Z",
+  "totalAnalisadas": 10,
+  "estatisticas": {
+    "totalAnalisadas": 10,
+    "comRequisitosDetalhados": 10,
+    "comInformacoesInsuficientes": 0
+  },
+  "vagas": [
+    {
+      "titulo": "Analista de Suporte Junior - Service Desk",
+      "empresa": "UNIÃO QUÍMICA",
+      "localizacaoVaga": "Valparaíso de Goiás / GO",
+      "modalidadeVaga": "Presencial",
+      "nivelVaga": "Técnico",
+      "link": "https://www.vagas.com.br/vagas/v2834795/analista-de-suporte-junior-service-desk",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk",
+        "Analista de Sistemas"
+      ],
+      "formacao": {
+        "requisitos": [
+          "Ensino superior em: Ciência da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Redes de Computadores, Engenharia da Computação ou áreas correlatas."
+        ],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [
+          {
+            "requisito": "Ensino superior em: Ciência da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Redes de Computadores, Engenharia da Computação ou áreas correlatas.",
+            "correspondencia": "Área compatível (Bacharelado em Sistemas de Informação – Centro Universitário Leonardo da Vinci (UNIASSELVI)), porém graduação em andamento (previsão 12/2026). A vaga não afirma \"completo\", mas a conclusão ainda está pendente.",
+            "status": "parcialmenteAtendido",
+            "areaCompativel": true,
+            "conclusao": "emAndamento",
+            "vagaExigeCompleto": false,
+            "vagaAceitaCursando": false,
+            "statusFormacaoPerfil": "emAndamento",
+            "origemNoPerfil": "formacao"
+          }
+        ],
+        "naoIdentificados": []
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Proatividade e Autonomia",
+          "chaveCanonica": "proatividade_autonomia",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Comunicação escrita, verbal, técnica e interpessoal",
+          "chaveCanonica": "comunicacao",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Documentação de 100% dos manuais de operação e fluxos de processos implementados em novos módulos de software.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[5]"
+        },
+        {
+          "requisito": "Organização e Gestão de Prioridades",
+          "chaveCanonica": "organizacao_prioridades",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Senso de prioridade e inteligência emocional.",
+          "chaveCanonica": "inteligencia_emocional",
+          "status": "naoVerificavelPeloCurriculo",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Familiaridade com ITSM",
+          "chaveCanonica": "itsm",
+          "status": "atendido",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]",
+          "detalhe": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [
+        {
+          "requisito": "Familiaridade com ITSM",
+          "chaveCanonica": "itsm",
+          "status": "atendido",
+          "correspondencia": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        }
+      ],
+      "requisitosObrigatoriosNaoIdentificados": [],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [
+        {
+          "ferramenta": "Windows",
+          "chaveCanonica": "windows",
+          "termosDaVaga": [
+            "Windows"
+          ],
+          "status": "atendido",
+          "correspondencia": "Manutenção preventiva e corretiva de mais de 80 computadores e periféricos, substituição de componentes de hardware e padronização de imagens em ambientes Windows 10/11 e Linux.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[1]"
+        },
+        {
+          "ferramenta": "ITSM",
+          "chaveCanonica": "itsm",
+          "termosDaVaga": [
+            "ITSM"
+          ],
+          "status": "atendido",
+          "correspondencia": "GLPI (gestão de chamados)",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "conhecimentosTecnicos.ferramentas.experiencia[0]",
+          "duplicadoDe": "requisitosObrigatorios"
+        }
+      ],
+      "ferramentasNaoIdentificadas": [
+        "Active Directory",
+        "Office",
+        "Pacote Office"
+      ],
+      "conhecimentosAtendidos": [
+        {
+          "conhecimento": "Hardware",
+          "chaveCanonica": "hardware",
+          "termosDaVaga": [
+            "Hardware"
+          ],
+          "status": "atendido",
+          "correspondencia": "Manutenção preventiva e corretiva de mais de 80 computadores e periféricos, substituição de componentes de hardware e padronização de imagens em ambientes Windows 10/11 e Linux.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[1]"
+        },
+        {
+          "conhecimento": "Redes de computadores",
+          "chaveCanonica": "redes de computadores",
+          "termosDaVaga": [
+            "Redes de computadores"
+          ],
+          "status": "atendido",
+          "correspondencia": "Garantia de taxa de disponibilidade de rede superior a 98% através de reestruturação de cabeamento estruturado (crimpage e patch panels), configuração de switches/roteadores e testes de conectividade TCP/IP e DNS.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[2]"
+        }
+      ],
+      "conhecimentosNaoIdentificados": [
+        "Procedimentos Operacionais Padrão",
+        "POPs"
+      ],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [
+        {
+          "responsabilidadeVaga": "Realizar atendimento de nível 2 (N2);",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Prestar suporte técnico presencial (in loco) e remoto;",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Executar manutenções preventivas e corretivas;",
+          "atividadePerfil": "Manutenção preventiva e corretiva de mais de 80 computadores e periféricos, substituição de componentes de hardware e padronização de imagens em ambientes Windows 10/11 e Linux.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Monitorar e gerenciar incidentes;",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Prestar suporte à infraestrutura básica;",
+          "atividadePerfil": "Garantia de taxa de disponibilidade de rede superior a 98% através de reestruturação de cabeamento estruturado (crimpage e patch panels), configuração de switches/roteadores e testes de conectividade TCP/IP e DNS.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Apoiar as áreas de infraestrutura;",
+          "atividadePerfil": "Garantia de taxa de disponibilidade de rede superior a 98% através de reestruturação de cabeamento estruturado (crimpage e patch panels), configuração de switches/roteadores e testes de conectividade TCP/IP e DNS.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Criar e manter documentações e Procedimentos Operacionais Padrão (POPs).",
+          "atividadePerfil": "Documentação de 100% dos manuais de operação e fluxos de processos implementados em novos módulos de software.",
+          "empresa": "Sudoeste Informática e Consultoria Ltda.",
+          "cargo": "Estagiário em Desenvolvimento de Software / Suporte a Sistemas",
+          "origemNoPerfil": "experiencia"
+        }
+      ],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)",
+        "JavaScript",
+        "SQL",
+        "HTML5",
+        "CSS3",
+        "Atendimento N1/N2",
+        "Controle e gestão de SLA",
+        "Modelagem de dados",
+        "Documentação técnica de sistemas e manuais",
+        "Lógica de programação",
+        "Documentação técnica de APIs"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"Valparaíso de Goiás / GO\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Formação: área compatível, mas a graduação está em andamento (previsão 12/2026).",
+        "Requisitos comportamentais mantidos em verificação subjetiva (3): Proatividade e Autonomia, Comunicação escrita, verbal, técnica e interpessoal, Organização e Gestão de Prioridades.",
+        "Requisitos não verificáveis pelo currículo (1): Senso de prioridade e inteligência emocional..",
+        "Ferramentas da vaga não identificadas no perfil: Active Directory, Office, Pacote Office.",
+        "Conhecimentos da vaga não identificados no perfil: Procedimentos Operacionais Padrão, POPs."
+      ]
+    },
+    {
+      "titulo": "Analista de Sistemas Júnior",
+      "empresa": "State Grid Brazil Holding",
+      "localizacaoVaga": "Rio de Janeiro / RJ",
+      "modalidadeVaga": "Presencial",
+      "nivelVaga": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2833442/analista-de-sistemas-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk",
+        "Analista de Sistemas"
+      ],
+      "formacao": {
+        "requisitos": [
+          "Ensino superior completo: Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas;"
+        ],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [
+          {
+            "requisito": "Ensino superior completo: Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas;",
+            "correspondencia": "Área compatível (Bacharelado em Sistemas de Informação – Centro Universitário Leonardo da Vinci (UNIASSELVI)), porém graduação em andamento (previsão 12/2026). A vaga exige superior completo.",
+            "status": "parcialmenteAtendido",
+            "areaCompativel": true,
+            "conclusao": "emAndamento",
+            "vagaExigeCompleto": true,
+            "vagaAceitaCursando": false,
+            "statusFormacaoPerfil": "emAndamento",
+            "origemNoPerfil": "formacao"
+          }
+        ],
+        "naoIdentificados": []
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Conhecimento em desenvolvimento e manutenção de aplicações web;",
+          "chaveCanonica": "desenvolvimento_web",
+          "status": "atendido",
+          "evidenciaNoPerfil": "Criação e manutenção de fluxos de backend e telas com validação de regras de negócio em JavaScript e HTML/CSS.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[1]",
+          "detalhe": null
+        },
+        {
+          "requisito": "Conhecimento básico em Inteligência Artificial e uso de ferramentas de IA aplicadas à programação;",
+          "chaveCanonica": "inteligencia_artificial",
+          "status": "parcialmenteAtendido",
+          "evidenciaNoPerfil": "APIs de IA",
+          "origemNoPerfil": "projeto",
+          "fonteNoPerfil": "projetos[2].tecnologias[3]",
+          "detalhe": "Possui aplicação prática de APIs de IA voltada à documentação técnica no projeto AutoDoc, porém sem comprovação direta de ferramentas de IA aplicadas especificamente à programação."
+        },
+        {
+          "requisito": "Noções de projetos de Tecnologia da Informação;",
+          "chaveCanonica": "projetos_ti",
+          "status": "parcialmenteAtendido",
+          "evidenciaNoPerfil": "Atuação direta no ciclo de vida de desenvolvimento de software para aplicações corporativas.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[0]",
+          "detalhe": "Possui participação em projetos de software e ciclo de desenvolvimento, mas sem comprovação direta de gestão ou planejamento formal de projetos de TI."
+        },
+        {
+          "requisito": "Experiência ou interesse em suporte a usuários por meio de chamados;",
+          "chaveCanonica": "suporte_chamados",
+          "status": "atendido",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]",
+          "detalhe": null
+        },
+        {
+          "requisito": "Inglês básico para leitura e compreensão de documentações técnicas;",
+          "chaveCanonica": "idioma_ingles",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "O perfil não possui informação de proficiência em idiomas cadastrada.",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [
+        {
+          "requisito": "Conhecimento em desenvolvimento e manutenção de aplicações web;",
+          "chaveCanonica": "desenvolvimento_web",
+          "status": "atendido",
+          "correspondencia": "Criação e manutenção de fluxos de backend e telas com validação de regras de negócio em JavaScript e HTML/CSS.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[1]"
+        },
+        {
+          "requisito": "Conhecimento básico em Inteligência Artificial e uso de ferramentas de IA aplicadas à programação;",
+          "chaveCanonica": "inteligencia_artificial",
+          "status": "parcialmenteAtendido",
+          "correspondencia": "APIs de IA",
+          "origemNoPerfil": "projeto",
+          "fonteNoPerfil": "projetos[2].tecnologias[3]"
+        },
+        {
+          "requisito": "Noções de projetos de Tecnologia da Informação;",
+          "chaveCanonica": "projetos_ti",
+          "status": "parcialmenteAtendido",
+          "correspondencia": "Atuação direta no ciclo de vida de desenvolvimento de software para aplicações corporativas.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Experiência ou interesse em suporte a usuários por meio de chamados;",
+          "chaveCanonica": "suporte_chamados",
+          "status": "atendido",
+          "correspondencia": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        }
+      ],
+      "requisitosObrigatoriosNaoIdentificados": [
+        "Inglês básico para leitura e compreensão de documentações técnicas;"
+      ],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [
+        {
+          "tecnologia": "APIs",
+          "chaveCanonica": "apis",
+          "termosDaVaga": [
+            "APIs"
+          ],
+          "status": "atendido",
+          "correspondencia": "REST APIs",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "conhecimentosTecnicos.tecnologiasEFrameworks.experiencia[0]"
+        },
+        {
+          "tecnologia": "Cloud",
+          "chaveCanonica": "cloud",
+          "termosDaVaga": [
+            "Cloud"
+          ],
+          "status": "atendido",
+          "correspondencia": "Google Cloud Computing Foundations (Cloud, Dados e Infraestrutura)",
+          "origemNoPerfil": "projeto",
+          "fonteNoPerfil": "cursos[0].nome"
+        },
+        {
+          "tecnologia": "Inteligência Artificial",
+          "chaveCanonica": "inteligencia_artificial",
+          "termosDaVaga": [
+            "Inteligência Artificial",
+            "IA"
+          ],
+          "status": "atendido",
+          "correspondencia": "APIs de IA",
+          "origemNoPerfil": "projeto",
+          "fonteNoPerfil": "projetos[2].tecnologias[3]",
+          "duplicadoDe": "requisitosObrigatorios"
+        }
+      ],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [
+        "Protheus"
+      ],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [
+        "Inglês - Nível Básico"
+      ],
+      "responsabilidadesComCorrespondencia": [
+        {
+          "responsabilidadeVaga": "Atuar no desenvolvimento, manutenção e evolução de soluções corporativas, incluindo aplicações web, integrações, APIs e sistema ERP (Protheus);",
+          "atividadePerfil": "Atuação direta no ciclo de vida de desenvolvimento de software para aplicações corporativas.",
+          "empresa": "Sudoeste Informática e Consultoria Ltda.",
+          "cargo": "Estagiário em Desenvolvimento de Software / Suporte a Sistemas",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Apoiar atividades de banco de dados, cloud, automação e uso de Inteligência Artificial para desenvolvimento e ganho de produtividade. Também participará de projetos de TI, revisões de código, atendimento a usuários e iniciativas de melhoria contínua, qualidade e documentação.",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        }
+      ],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)",
+        "JavaScript",
+        "SQL",
+        "HTML5",
+        "CSS3",
+        "Atendimento N1/N2",
+        "Controle e gestão de SLA",
+        "Modelagem de dados",
+        "Documentação técnica de sistemas e manuais",
+        "Lógica de programação",
+        "Documentação técnica de APIs"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"Rio de Janeiro / RJ\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Formação: área compatível, mas a graduação está em andamento (previsão 12/2026).",
+        "A vaga solicita idioma (Inglês - Nível Básico), informação não cadastrada no perfil.",
+        "Ferramentas da vaga não identificadas no perfil: Protheus."
+      ]
+    },
+    {
+      "titulo": "Analista de TI - Júnior",
+      "empresa": "ALLOS",
+      "localizacaoVaga": "São Paulo / SP",
+      "modalidadeVaga": "Presencial",
+      "nivelVaga": "Estágio",
+      "link": "https://www.vagas.com.br/vagas/v2835539/analista-de-ti-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk",
+        "Analista de Sistemas"
+      ],
+      "formacao": {
+        "requisitos": [
+          "Ensino Superior Completo;"
+        ],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [
+          {
+            "requisito": "Ensino Superior Completo;",
+            "correspondencia": "Área não especificada pela vaga. O candidato possui graduação em andamento (Bacharelado em Sistemas de Informação – Centro Universitário Leonardo da Vinci (UNIASSELVI), previsão 12/2026). A vaga exige superior completo.",
+            "status": "parcialmenteAtendido",
+            "areaCompativel": null,
+            "conclusao": "emAndamento",
+            "vagaExigeCompleto": true,
+            "vagaAceitaCursando": false,
+            "statusFormacaoPerfil": "emAndamento",
+            "origemNoPerfil": "formacao"
+          }
+        ],
+        "naoIdentificados": []
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Seja organizado(a);",
+          "chaveCanonica": "organizacao_prioridades",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Tenha boa comunicação e postura de serviço ao cliente;",
+          "chaveCanonica": "comunicacao",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Documentação de 100% dos manuais de operação e fluxos de processos implementados em novos módulos de software.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[5]"
+        },
+        {
+          "requisito": "Saiba trabalhar de forma colaborativa com áreas de negócio e times técnicos;",
+          "chaveCanonica": "colaboracao",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Tenha perfil orientado a resultados e melhoria contínua;",
+          "chaveCanonica": "tenha perfil orientado a resultados e melhoria continua",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Seja proativo na identificação de pontos de melhoria e automação;",
+          "chaveCanonica": "proatividade_autonomia",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Vivência com atendimento de chamados e resolução de incidentes;",
+          "chaveCanonica": "suporte_chamados",
+          "status": "atendido",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]",
+          "detalhe": null
+        },
+        {
+          "requisito": "Participação na estruturação ou melhoria de processos de suporte será um diferencial.",
+          "chaveCanonica": "suporte_chamados",
+          "status": "atendido",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]",
+          "detalhe": null
+        },
+        {
+          "requisito": "Local de trabalho: Escritório Corporativo Vila Olímpia",
+          "chaveCanonica": "local de trabalho escritorio corporativo vila olimpia",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [
+        {
+          "requisito": "Vivência com atendimento de chamados e resolução de incidentes;",
+          "chaveCanonica": "suporte_chamados",
+          "status": "atendido",
+          "correspondencia": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Participação na estruturação ou melhoria de processos de suporte será um diferencial.",
+          "chaveCanonica": "suporte_chamados",
+          "status": "atendido",
+          "correspondencia": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        }
+      ],
+      "requisitosObrigatoriosNaoIdentificados": [
+        "Tenha perfil orientado a resultados e melhoria contínua;",
+        "Local de trabalho: Escritório Corporativo Vila Olímpia"
+      ],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [
+        {
+          "responsabilidadeVaga": "Atender/direcionar/acompanhar chamados técnicos relacionados aos sistemas corporativos;",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Diagnosticar e resolver incidentes e problemas quando cabível de atuação direta e não do fornecedor;",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Documentar soluções, procedimentos e rotinas de atendimento.",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        }
+      ],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)",
+        "JavaScript",
+        "SQL",
+        "HTML5",
+        "CSS3",
+        "Atendimento N1/N2",
+        "Controle e gestão de SLA",
+        "Modelagem de dados",
+        "Documentação técnica de sistemas e manuais",
+        "Lógica de programação",
+        "Documentação técnica de APIs"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"São Paulo / SP\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Formação: graduação em andamento (previsão 12/2026), área não especificada pela vaga.",
+        "Requisitos comportamentais mantidos em verificação subjetiva (4): Seja organizado(a);, Tenha boa comunicação e postura de serviço ao cliente;, Saiba trabalhar de forma colaborativa com áreas de negócio e times técnicos;, Seja proativo na identificação de pontos de melhoria e automação;."
+      ]
+    },
+    {
+      "titulo": "Analista de Logística Junior",
+      "empresa": "Confidencial",
+      "localizacaoVaga": "Rio de Janeiro / RJ",
+      "modalidadeVaga": "Presencial",
+      "nivelVaga": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2833383/analista-de-logistica-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk"
+      ],
+      "formacao": {
+        "requisitos": [],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [],
+        "naoIdentificados": []
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Informática (Word, Power Point, Outlook);",
+          "chaveCanonica": "informatica (word power point outlook)",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Domínio em Excel avançado.",
+          "chaveCanonica": "dominio em excel avancado",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [],
+      "requisitosObrigatoriosNaoIdentificados": [
+        "Informática (Word, Power Point, Outlook);",
+        "Domínio em Excel avançado."
+      ],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [
+        "WMS",
+        "Word",
+        "Excel",
+        "Power Point",
+        "Outlook"
+      ],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"Rio de Janeiro / RJ\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Ferramentas da vaga não identificadas no perfil: WMS, Word, Excel, Power Point, Outlook."
+      ]
+    },
+    {
+      "titulo": "Analista Administrativo Júnior",
+      "empresa": "Confidencial",
+      "localizacaoVaga": "Rio de Janeiro / RJ",
+      "modalidadeVaga": "Presencial",
+      "nivelVaga": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2830117/analista-administrativo-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk"
+      ],
+      "formacao": {
+        "requisitos": [],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [],
+        "naoIdentificados": []
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Perfilm Comportamental:",
+          "chaveCanonica": "perfilm comportamental",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Relacionamento Interpessoal,",
+          "chaveCanonica": "comunicacao",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Documentação de 100% dos manuais de operação e fluxos de processos implementados em novos módulos de software.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[5]"
+        },
+        {
+          "requisito": "Foco no cliente",
+          "chaveCanonica": "foco no cliente",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Boa comunicação escrita e verbal,",
+          "chaveCanonica": "comunicacao",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Documentação de 100% dos manuais de operação e fluxos de processos implementados em novos módulos de software.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[5]"
+        },
+        {
+          "requisito": "Pró-atividade,",
+          "chaveCanonica": "pro atividade",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Imparcialidade;",
+          "chaveCanonica": "imparcialidade",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Inteligência emocional.",
+          "chaveCanonica": "inteligencia_emocional",
+          "status": "naoVerificavelPeloCurriculo",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [],
+      "requisitosObrigatoriosNaoIdentificados": [
+        "Perfilm Comportamental:",
+        "Foco no cliente",
+        "Pró-atividade,",
+        "Imparcialidade;"
+      ],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [
+        "Totvs",
+        "Power Point"
+      ],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [
+        {
+          "responsabilidadeVaga": "Atendimento ao Cliente;",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Atendimento ao cliente quando necessário;",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        },
+        {
+          "responsabilidadeVaga": "Suporte aos operadores de teleatendimento;",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        }
+      ],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"Rio de Janeiro / RJ\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Requisitos comportamentais mantidos em verificação subjetiva (2): Relacionamento Interpessoal,, Boa comunicação escrita e verbal,.",
+        "Requisitos não verificáveis pelo currículo (1): Inteligência emocional..",
+        "Ferramentas da vaga não identificadas no perfil: Totvs, Power Point."
+      ]
+    },
+    {
+      "titulo": "Analista de Planejamento Júnior",
+      "empresa": "Tetra Tech América do Sul",
+      "localizacaoVaga": "São Paulo / SP",
+      "modalidadeVaga": "Híbrido",
+      "nivelVaga": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2836067/analista-de-planejamento-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk"
+      ],
+      "formacao": {
+        "requisitos": [
+          "Ensino superior completo em Administração.",
+          "Pós graduação em Gestão de Projetos;"
+        ],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [],
+        "naoIdentificados": [
+          "Ensino superior completo em Administração.",
+          "Pós graduação em Gestão de Projetos;"
+        ]
+      },
+      "requisitosObrigatorios": [],
+      "requisitosObrigatoriosAtendidos": [],
+      "requisitosObrigatoriosNaoIdentificados": [],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [
+        "Office",
+        "Pacote Office"
+      ],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [
+        "Metodologias ágeis"
+      ],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [
+        {
+          "responsabilidadeVaga": "Realizar as atividades e rotinas garantindo a excelência operacional e atendimento aos requisitos do SGI e cliente;",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        }
+      ],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"São Paulo / SP\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Ferramentas da vaga não identificadas no perfil: Office, Pacote Office.",
+        "Conhecimentos da vaga não identificados no perfil: Metodologias ágeis."
+      ]
+    },
+    {
+      "titulo": "Analista Contábil Júnior",
+      "empresa": "Grupo Guanabara",
+      "localizacaoVaga": "Rio de Janeiro / RJ",
+      "modalidadeVaga": "Presencial",
+      "nivelVaga": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2825790/analista-contabil-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk"
+      ],
+      "formacao": {
+        "requisitos": [
+          "Ensino Superior completo em Ciências Contábeis;"
+        ],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [],
+        "naoIdentificados": [
+          "Ensino Superior completo em Ciências Contábeis;"
+        ]
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Registro ativo no CRC;",
+          "chaveCanonica": "registro ativo no crc",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Experiência na área contábil;",
+          "chaveCanonica": "experiencia na area contabil",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Conhecimento em fechamento e análises contábeis;",
+          "chaveCanonica": "conhecimento em fechamento e analises contabeis",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Pacote Office intermediário/avançado.",
+          "chaveCanonica": "pacote office intermediario avancado",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [],
+      "requisitosObrigatoriosNaoIdentificados": [
+        "Registro ativo no CRC;",
+        "Experiência na área contábil;",
+        "Conhecimento em fechamento e análises contábeis;",
+        "Pacote Office intermediário/avançado."
+      ],
+      "requisitosDesejaveis": [
+        {
+          "requisito": "Conhecimento em IFRS/Pronunciamentos Contábeis.",
+          "chaveCanonica": "conhecimento em ifrs pronunciamentos contabeis",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [
+        "Conhecimento em IFRS/Pronunciamentos Contábeis."
+      ],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [
+        "Office",
+        "Pacote Office"
+      ],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"Rio de Janeiro / RJ\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Ferramentas da vaga não identificadas no perfil: Office, Pacote Office."
+      ]
+    },
+    {
+      "titulo": "Analista de Pessoal Júnior",
+      "empresa": "ALLOS",
+      "localizacaoVaga": "Rio de Janeiro / RJ",
+      "modalidadeVaga": "Híbrido",
+      "nivelVaga": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2837092/analista-de-pessoal-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk",
+        "Analista de Sistemas"
+      ],
+      "formacao": {
+        "requisitos": [
+          "Superior completo em Administração, RH ou áreas correlatas;"
+        ],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [],
+        "naoIdentificados": [
+          "Superior completo em Administração, RH ou áreas correlatas;"
+        ]
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Experiência anterior com apuração e tratamento de ponto eletrônico;",
+          "chaveCanonica": "experiencia anterior com apuracao e tratamento de ponto eletronico",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Conhecimento básico da legislação trabalhista referente à jornada de trabalho;",
+          "chaveCanonica": "conhecimento basico da legislacao trabalhista referente a jornada de trabalho",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Familiaridade com sistemas de ponto (ex: Norber ou outros);",
+          "chaveCanonica": "familiaridade com sistemas de ponto (ex norber ou outros)",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Excel intermediário (filtros, PROCV, tabela dinâmica serão diferenciais);",
+          "chaveCanonica": "excel intermediario (filtros procv tabela dinamica serao diferenciais)",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Organização, atenção aos detalhes e preocupação com a qualidade no atendimento.",
+          "chaveCanonica": "organizacao_prioridades",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Local de Trabalho: Escritório Tijuca.",
+          "chaveCanonica": "local de trabalho escritorio tijuca",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Escala de Trabalho: 5x2.",
+          "chaveCanonica": "escala de trabalho 5x2",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Modelo de Trabalho: Híbrido.",
+          "chaveCanonica": "modelo de trabalho hibrido",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [],
+      "requisitosObrigatoriosNaoIdentificados": [
+        "Experiência anterior com apuração e tratamento de ponto eletrônico;",
+        "Conhecimento básico da legislação trabalhista referente à jornada de trabalho;",
+        "Familiaridade com sistemas de ponto (ex: Norber ou outros);",
+        "Excel intermediário (filtros, PROCV, tabela dinâmica serão diferenciais);",
+        "Local de Trabalho: Escritório Tijuca.",
+        "Escala de Trabalho: 5x2.",
+        "Modelo de Trabalho: Híbrido."
+      ],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [
+        "Excel"
+      ],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)",
+        "JavaScript",
+        "SQL",
+        "HTML5",
+        "CSS3",
+        "Atendimento N1/N2",
+        "Controle e gestão de SLA",
+        "Modelagem de dados",
+        "Documentação técnica de sistemas e manuais",
+        "Lógica de programação",
+        "Documentação técnica de APIs"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"Rio de Janeiro / RJ\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Requisitos comportamentais mantidos em verificação subjetiva (1): Organização, atenção aos detalhes e preocupação com a qualidade no atendimento..",
+        "Ferramentas da vaga não identificadas no perfil: Excel."
+      ]
+    },
+    {
+      "titulo": "Analista Contábil Júnior",
+      "empresa": "JOBCENTER DO BRASIL LTDA",
+      "localizacaoVaga": "São Paulo / SP",
+      "modalidadeVaga": "Remoto",
+      "nivelVaga": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2835927/analista-contabil-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk"
+      ],
+      "formacao": {
+        "requisitos": [
+          "Ensino superior cursando."
+        ],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [
+          {
+            "requisito": "Ensino superior cursando.",
+            "correspondencia": "A vaga aceita ensino superior cursando sem especificar área. O candidato está cursando Bacharelado em Sistemas de Informação – Centro Universitário Leonardo da Vinci (UNIASSELVI) (previsão 12/2026).",
+            "status": "atendido",
+            "areaCompativel": null,
+            "conclusao": "emAndamento",
+            "vagaExigeCompleto": false,
+            "vagaAceitaCursando": true,
+            "statusFormacaoPerfil": "emAndamento",
+            "origemNoPerfil": "formacao"
+          }
+        ],
+        "naoIdentificados": []
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Experiência em conciliação bancária e folha de pagamento.",
+          "chaveCanonica": "experiencia em conciliacao bancaria e folha de pagamento",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Conhecimento dos princípios de contabilidade (inclusive CPCs), estrutura do balanço e resultado.",
+          "chaveCanonica": "conhecimento dos principios de contabilidade (inclusive cpcs) estrutura do balanco e resultado",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Excel intermediário.",
+          "chaveCanonica": "excel intermediario",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Outras informações:",
+          "chaveCanonica": "outras informacoes",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Escala de Trabalho: De segunda a sexta.",
+          "chaveCanonica": "escala de trabalho de segunda a sexta",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Horário de Trabalho: 09:00 às 18:00hs.",
+          "chaveCanonica": "horario de trabalho 09 00 as 18 00hs",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Local de Trabalho: Vila Olímpia - SP | modelo híbrido (3x presenciais e 2x home office).",
+          "chaveCanonica": "local de trabalho vila olimpia sp modelo hibrido (3x presenciais e 2x home office)",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Contrato temporário em torno de 6 meses.",
+          "chaveCanonica": "contrato temporario em torno de 6 meses",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [],
+      "requisitosObrigatoriosNaoIdentificados": [
+        "Experiência em conciliação bancária e folha de pagamento.",
+        "Conhecimento dos princípios de contabilidade (inclusive CPCs), estrutura do balanço e resultado.",
+        "Excel intermediário.",
+        "Outras informações:",
+        "Escala de Trabalho: De segunda a sexta.",
+        "Horário de Trabalho: 09:00 às 18:00hs.",
+        "Local de Trabalho: Vila Olímpia - SP | modelo híbrido (3x presenciais e 2x home office).",
+        "Contrato temporário em torno de 6 meses."
+      ],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [
+        "Office",
+        "Excel"
+      ],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)"
+      ],
+      "compatibilidadeLocalModalidade": "compativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga remota compatível com a preferência de trabalho do perfil.",
+        "Ferramentas da vaga não identificadas no perfil: Office, Excel."
+      ]
+    },
+    {
+      "titulo": "Analista Fiscal Junior",
+      "empresa": "Razac",
+      "localizacaoVaga": "São Paulo / SP",
+      "modalidadeVaga": "Presencial",
+      "nivelVaga": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2835149/analista-fiscal-junior",
+      "areaIdentificada": [
+        "Suporte de TI / Help Desk / Service Desk"
+      ],
+      "formacao": {
+        "requisitos": [
+          "Ensino superior completo ou cursando em Administração, ou áreas correlatas;"
+        ],
+        "statusFormacaoPerfil": "emAndamento",
+        "correspondencias": [],
+        "naoIdentificados": [
+          "Ensino superior completo ou cursando em Administração, ou áreas correlatas;"
+        ]
+      },
+      "requisitosObrigatorios": [
+        {
+          "requisito": "Curiosidade e interesse em compreender processos, identificar oportunidades e propor melhorias;",
+          "chaveCanonica": "curiosidade e interesse em compreender processos identificar oportunidades e propor melhorias",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Senso de urgência e capacidade para gerenciar múltiplas demandas e prioridades simultaneamente;",
+          "chaveCanonica": "senso de urgencia e capacidade para gerenciar multiplas demandas e prioridades simultaneamente",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        },
+        {
+          "requisito": "Boa comunicação e habilidade para atuar em interface com equipes multidisciplinares;",
+          "chaveCanonica": "comunicacao",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Documentação de 100% dos manuais de operação e fluxos de processos implementados em novos módulos de software.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[1].atividadesRealizadas[5]"
+        },
+        {
+          "requisito": "Proatividade, atenção aos detalhes e comprometimento com prazos e qualidade das entregas.",
+          "chaveCanonica": "proatividade_autonomia",
+          "status": "verificacaoSubjetiva",
+          "evidenciaNoPerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "origemNoPerfil": "experiencia",
+          "fonteNoPerfil": "experienciasProfissionais[0].atividadesRealizadas[0]"
+        },
+        {
+          "requisito": "Se você é um profissional motivado e apaixonado pela área Fiscal no comércio exterior, queremos conhecer você. Clique no botão “Candidate-se” abaixo e envie sua inscrição.",
+          "chaveCanonica": "se voce e um profissional motivado e apaixonado pela area fiscal no comercio exterior queremos conhecer voce clique no botao “candidate se” abaixo e envie sua inscricao",
+          "status": "naoIdentificado",
+          "evidenciaNoPerfil": "",
+          "origemNoPerfil": null,
+          "fonteNoPerfil": null
+        }
+      ],
+      "requisitosObrigatoriosAtendidos": [],
+      "requisitosObrigatoriosNaoIdentificados": [
+        "Curiosidade e interesse em compreender processos, identificar oportunidades e propor melhorias;",
+        "Senso de urgência e capacidade para gerenciar múltiplas demandas e prioridades simultaneamente;",
+        "Se você é um profissional motivado e apaixonado pela área Fiscal no comércio exterior, queremos conhecer você. Clique no botão “Candidate-se” abaixo e envie sua inscrição."
+      ],
+      "requisitosDesejaveis": [],
+      "requisitosDesejaveisAtendidos": [],
+      "requisitosDesejaveisNaoIdentificados": [],
+      "tecnologiasAtendidas": [],
+      "tecnologiasNaoIdentificadas": [],
+      "ferramentasAtendidas": [],
+      "ferramentasNaoIdentificadas": [],
+      "conhecimentosAtendidos": [],
+      "conhecimentosNaoIdentificados": [],
+      "idiomasAtendidos": [],
+      "idiomasNaoIdentificados": [],
+      "responsabilidadesComCorrespondencia": [
+        {
+          "responsabilidadeVaga": "Prestar suporte e atendimento às auditorias, disponibilizando documentos e informações necessárias e esclarecendo eventuais questionamentos.",
+          "atividadePerfil": "Gerenciamento e resolução de mais de 25 chamados semanais de N1/N2 com triagem e priorização no GLPI, prestando diagnóstico técnico remoto e presencial a mais de 10 secretarias municipais.",
+          "empresa": "Prefeitura Municipal de Canindé de São Francisco – SE",
+          "cargo": "Técnico em Informática",
+          "origemNoPerfil": "experiencia"
+        }
+      ],
+      "competenciasDoPerfilRelacionadas": [
+        "GLPI (gestão de chamados)",
+        "AnyDesk (acesso remoto)",
+        "TeamViewer (acesso remoto)",
+        "Jasper Reports (parametrização e relatórios)",
+        "Git",
+        "GitHub",
+        "Windows 10/11",
+        "Windows Server (básico)",
+        "Linux (Ubuntu, Debian)",
+        "Cabeamento estruturado (par trançado/RJ45, crimpage, patch panels)",
+        "TCP/IP",
+        "DHCP",
+        "DNS",
+        "Configuração de roteadores e switches",
+        "Wi-Fi corporativo",
+        "Rotinas de backup",
+        "Montagem e manutenção de computadores desktops",
+        "Substituição de placas e fontes",
+        "Manutenção de impressoras térmicas e multifuncionais",
+        "Padronização de imagens do SO",
+        "SQL Server (consultas, triggers, procedures, análise)",
+        "MySQL (consultas SELECT, JOINs, filtros, relatórios)"
+      ],
+      "compatibilidadeLocalModalidade": "potencialmenteCompativel",
+      "informacoesInsuficientes": false,
+      "observacoes": [
+        "Vaga presencial localizada em \"São Paulo / SP\". O candidato reside em Canindé de São Francisco - SE, exigindo disponibilidade para mudança ou atuação remota.",
+        "Requisitos comportamentais mantidos em verificação subjetiva (2): Boa comunicação e habilidade para atuar em interface com equipes multidisciplinares;, Proatividade, atenção aos detalhes e comprometimento com prazos e qualidade das entregas.."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "dataColeta": "2026-10-01T00:18:25.576Z",
+  "totalAnalisadas": 10,
+  "estatisticas": {
+    "totalAnalisadas": 10,
+    "comDescricaoCompleta": 9,
+    "comInformacoesParciais": 1,
+    "naoAcessadasOuSemDados": 0
+  },
+  "vagas": [
+    {
+      "titulo": "Analista de Suporte Junior - Service Desk",
+      "empresa": "UNIÃO QUÍMICA",
+      "local": "Valparaíso de Goiás / GO",
+      "modalidade": "Presencial",
+      "nivel": "Técnico",
+      "link": "https://www.vagas.com.br/vagas/v2834795/analista-de-suporte-junior-service-desk",
+      "descricao": "Faixa salarial a combinar\nValparaíso de Goiás \nRegime CLT\nBenefícios\n \nDescrição\n \nEmpresa\nAssistência médica\nAssistência odontológica\nBicicletário\nCafé da manhã\nCesta básica\nConvênio com empresas parceiras\nPrevidência privada\nRestaurante interno\nSala de Jogos\nSeguro de vida\nVale-alimentação\nVale-transporte\n Ver todos\n\nDescrição:\nRealizar atendimento de nível 2 (N2);\nPrestar suporte técnico presencial (in loco) e remoto;\nExecutar manutenções preventivas e corretivas;\nGerenciar ativos de TI;\nMonitorar e gerenciar incidentes;\nAtualizar a base de conhecimento;\nPrestar suporte à infraestrutura básica;\nExecutar processos de onboarding e offboarding;\nGerenciar fornecedores e contratos de serviços;\nAcompanhar e prestar suporte a terceiros;\nApoiar as áreas de infraestrutura;\nCriar e manter documentações e Procedimentos Operacionais Padrão (POPs).\n\n\n\n\nPré-Requisitos:\n\n\n\n\nEnsino superior em: Ciência da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Redes de Computadores, Engenharia da Computação ou áreas correlatas.\nConhecimentos obrigatórios: Hardware, Sistemas Operacionais (Windows), pacote Office, redes de computadores, Active Directory.\n\n\n\n\nHabilidades necessárias:\n\n﻿\nProatividade e Autonomia\nComunicação escrita, verbal, técnica e interpessoal\nOrganização e Gestão de Prioridades\nSenso de prioridade e inteligência emocional.\nFamiliaridade com ITSM\nEmpresa\n\nUnião Química Farmacêutica Nacional S/A\n\n\n\n\nConheça a União Química:\n\n\n\n\nQue tal trabalhar em uma empresa que está posicionada como uma das maiores, mais sólidas e inovadoras empresas do ramo farmacêutico?\n\n\n\n\nCom capital 100% nacional e mais de 89 anos de trajetória, fornecemos produtos de alta qualidade a custos cada vez mais competitivos, por meio da atuação de nossas cinco unidades de negócios:\n\n\n\n\nFarma: unidade de negócios que dispõe de marcas renomadas e um vasto portfólio de medicamentos genéricos, similares e OTC.\n\nGenom: com linhas de produtos de prescrição médica, a Genom é responsável pela inserção nos segmentos de Oftalmologia, Ginecologia, Ortopedia, Dermatologia e Sistema Nervoso Central.\n\nHospitalar: tem como nicho de mercado os hospitais públicos e privados, bem como clínicas e distribuidores\n\nAgener Saúde Animal: destaque no mercado veterinário com sua ampla linha de produtos para Animais de Companhia (Pet), Animais de Produção (Bovinos, Ovinos, Caprinos e Suínos) e Reprodução Animal (Tecnopec).\n\nTerceirização: dedicada terceirização da produção de medicamentos, atende diversas indústrias farmacêuticas nacionais e multinacionais do segmento.\n\n\n\n\nA União Química possui orgulho de sua trajetória e busca construir um futuro ainda mais brilhante. Com uma visão sempre inovadora e focada no cliente, buscamos talentos que contribuam para a construção de uma empresa que busca renovação em cada nova etapa, no desenvolvimento de seus produtos e na condução de seus negócios.\n\n\n\n\nSe identificou? Gosta de desafios? Venha fazer parte da União Química!",
+      "responsabilidades": [
+        "Realizar atendimento de nível 2 (N2);",
+        "Prestar suporte técnico presencial (in loco) e remoto;",
+        "Executar manutenções preventivas e corretivas;",
+        "Gerenciar ativos de TI;",
+        "Monitorar e gerenciar incidentes;",
+        "Atualizar a base de conhecimento;",
+        "Prestar suporte à infraestrutura básica;",
+        "Executar processos de onboarding e offboarding;",
+        "Gerenciar fornecedores e contratos de serviços;",
+        "Acompanhar e prestar suporte a terceiros;",
+        "Apoiar as áreas de infraestrutura;",
+        "Criar e manter documentações e Procedimentos Operacionais Padrão (POPs)."
+      ],
+      "requisitosObrigatorios": [
+        "Ensino superior em: Ciência da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Redes de Computadores, Engenharia da Computação ou áreas correlatas.",
+        "Proatividade e Autonomia",
+        "Comunicação escrita, verbal, técnica e interpessoal",
+        "Organização e Gestão de Prioridades",
+        "Senso de prioridade e inteligência emocional.",
+        "Familiaridade com ITSM"
+      ],
+      "requisitosDesejaveis": [],
+      "formacao": [
+        "Ensino superior em: Ciência da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Redes de Computadores, Engenharia da Computação ou áreas correlatas."
+      ],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [
+        "Active Directory",
+        "Office",
+        "Pacote Office",
+        "Windows",
+        "ITSM"
+      ],
+      "conhecimentos": [
+        "Hardware",
+        "Redes de computadores",
+        "Procedimentos Operacionais Padrão",
+        "POPs"
+      ],
+      "idiomas": [],
+      "beneficios": [
+        "Assistência médica",
+        "Assistência odontológica",
+        "Bicicletário",
+        "Café da manhã",
+        "Cesta básica",
+        "Previdência privada",
+        "Restaurante interno",
+        "Sala de Jogos",
+        "Seguro de vida",
+        "Vale-alimentação",
+        "Vale-transporte"
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista de Sistemas Júnior",
+      "empresa": "State Grid Brazil Holding",
+      "local": "Rio de Janeiro / RJ",
+      "modalidade": "Presencial",
+      "nivel": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2833442/analista-de-sistemas-junior",
+      "descricao": "Faixa salarial a combinar\nRio de Janeiro \nRegime CLT\nBenefícios\n \nDescrição\n \nEmpresa\nAssistência médica\nAssistência odontológica\nAuxílio creche\nParticipação nos Lucros ou Resultados\nPrevidência privada\nSeguro de vida\nVale-alimentação\nVale-refeição\n Ver todos\n\nDescrição:\n\nO profissional será responsável por:\n\nAtuar no desenvolvimento, manutenção e evolução de soluções corporativas, incluindo aplicações web, integrações, APIs e sistema ERP (Protheus);\nApoiar atividades de banco de dados, cloud, automação e uso de Inteligência Artificial para desenvolvimento e ganho de produtividade. Também participará de projetos de TI, revisões de código, atendimento a usuários e iniciativas de melhoria contínua, qualidade e documentação.\n\n\n\n\nRequisitos:\n\nEnsino superior completo: Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas;\nConhecimento em desenvolvimento e manutenção de aplicações web;\nConhecimento básico em Inteligência Artificial e uso de ferramentas de IA aplicadas à programação;\nNoções de projetos de Tecnologia da Informação;\nExperiência ou interesse em suporte a usuários por meio de chamados;\nInglês básico para leitura e compreensão de documentações técnicas;\nDisponibilidade para atuar em modelo 100% presencial no Centro – Rio de Janeiro.\n\n\n\n\n\nIdiomas:\n\nInglês - Nível Básico\n\nEmpresa\n\nA State Grid Brazil Holding (SGBH) é uma das maiores empresas do setor elétrico brasileiro. Fundada em 2010, detém 25 concessionárias e tem participação majoritária em outros cinco empreendimentos. Ela é subsidiária da State Grid Corporation of China.\n\n\n\n\nCom tecnologia de ponta, a SGBH possui mais de 16.000 quilômetros de linhas de transmissão que passam por 14 estados, entre elas a maior conexão de ultra alta tensão de ± 800 kV do mundo, que escoa a energia gerada pela usina de Belo Monte (PA), no Norte, até o Rio de Janeiro, no Sudeste.\n\n\n\n\nReconhecida no mercado nacional pelo profissionalismo de sua equipe, o aperfeiçoamento constante das práticas de segurança e o compromisso com os altos padrões ambientais do país, a companhia ocupa a 90ª posição entre os 200 maiores grupos listados pelo anuário “Valor Grandes Grupos 2019” e está entre as mil maiores segundo o ranking do “Valor 1000” e “Isto é Dinheiro” de 2019.\n\n\n\n\nPreservar as riquezas naturais e culturais e apoiar projetos de responsabilidade social figuram entre suas premissas, pois a State Grid Brazil Holding acredita que só assim promoverá o desenvolvimento de maneira consciente e sustentável, além de fomentar a cultura e o bem-estar da sociedade onde está presente.",
+      "responsabilidades": [
+        "Atuar no desenvolvimento, manutenção e evolução de soluções corporativas, incluindo aplicações web, integrações, APIs e sistema ERP (Protheus);",
+        "Apoiar atividades de banco de dados, cloud, automação e uso de Inteligência Artificial para desenvolvimento e ganho de produtividade. Também participará de projetos de TI, revisões de código, atendimento a usuários e iniciativas de melhoria contínua, qualidade e documentação."
+      ],
+      "requisitosObrigatorios": [
+        "Ensino superior completo: Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas;",
+        "Conhecimento em desenvolvimento e manutenção de aplicações web;",
+        "Conhecimento básico em Inteligência Artificial e uso de ferramentas de IA aplicadas à programação;",
+        "Noções de projetos de Tecnologia da Informação;",
+        "Experiência ou interesse em suporte a usuários por meio de chamados;",
+        "Inglês básico para leitura e compreensão de documentações técnicas;",
+        "Disponibilidade para atuar em modelo 100% presencial no Centro – Rio de Janeiro."
+      ],
+      "requisitosDesejaveis": [],
+      "formacao": [
+        "Ensino superior completo: Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou áreas correlatas;"
+      ],
+      "experienciaExigida": [],
+      "tecnologias": [
+        "APIs",
+        "Cloud",
+        "Inteligência Artificial",
+        "IA"
+      ],
+      "ferramentas": [
+        "Protheus"
+      ],
+      "conhecimentos": [],
+      "idiomas": [
+        "Inglês - Nível Básico"
+      ],
+      "beneficios": [
+        "Assistência médica",
+        "Assistência odontológica",
+        "Auxílio creche",
+        "Participação nos Lucros ou Resultados",
+        "Previdência privada",
+        "Seguro de vida",
+        "Vale-alimentação",
+        "Vale-refeição"
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista de TI - Júnior",
+      "empresa": "ALLOS",
+      "local": "São Paulo / SP",
+      "modalidade": "Presencial",
+      "nivel": "Estágio",
+      "link": "https://www.vagas.com.br/vagas/v2835539/analista-de-ti-junior",
+      "descricao": "Faixa salarial a combinar\nSão Paulo \nRegime CLT\nDescrição\n \nEmpresa\n\nDescrição:\nAtender/direcionar/acompanhar chamados técnicos relacionados aos sistemas corporativos;\nDiagnosticar e resolver incidentes e problemas quando cabível de atuação direta e não do fornecedor;\nDocumentar soluções, procedimentos e rotinas de atendimento.\n\nOutros requisitos:\nEnsino Superior Completo;\nSeja organizado(a);\nTenha boa comunicação e postura de serviço ao cliente;\nSaiba trabalhar de forma colaborativa com áreas de negócio e times técnicos;\nTenha perfil orientado a resultados e melhoria contínua;\nSeja proativo na identificação de pontos de melhoria e automação;\nVivência com atendimento de chamados e resolução de incidentes;\nParticipação na estruturação ou melhoria de processos de suporte será um diferencial.\n\n\n\n\nLocal de trabalho: Escritório Corporativo Vila Olímpia\n\nEmpresa\n\nSOMOS A LÍDER NA ADMINISTRAÇÃO DE SHOPPINGS DO BRASIL!\n\n\n\n\nALLOS é uma marca com uma forte herança. São 50 anos de experiência, transformando o mercado no Brasil. Somos referência em excelência e inovação, com a qualidade e confiança que faz parte da nossa história.\n\n\n\n\nA nova marca surgiu pronta para o futuro, a partir da fusão entre a Aliansce Sonae e a brMalls, em 2023. Mas, essa trajetória começou bem antes.\n\n\n\n\nTudo começou com a Aliansce, que inaugurou o primeiro shopping da região Nordeste e o segundo do Brasil em 1975. Em 2019, a fusão entre a Aliansce e a Sonae Sierra deu origem à Aliansce Sonae, tornando-se líder na administração de shoppings no Brasil, com 32 empreendimentos. Em 2006, surge a brMalls resultando em um portfólio de 30 ativos presentes nas cinco regiões do país.\n\n\n\n\nE assim, em 2023, a ALLOS surge com o encontro de duas potências nacionais do segmento, unindo forças para se tornar a mais inovadora plataforma de entretenimento, lifestyle, serviços e compras.\n\n\n\n\nNossa história continua e estamos prontos para criar momentos que transformam e impactam a vida das pessoas, gerando conexões e oportunidades.\n\n\n\n\nDIVERSIDADE, EQUIDADE E INCLUSÃO\n\n\n\n\nA ALLOS está comprometida com a criação e fomento de um ambiente de trabalho diverso, que acolha pessoas de raças, etnias, gêneros, origens, vivências e perfis variados, priorizando a inclusão social, a redução das desigualdades e práticas empregatícias justas, que promovam a igualdade de oportunidades.\n\n\n\n\nEsperamos que todos os colaboradores, de qualquer cargo ou hierarquia, sintam-se acolhidos e se orientem pelo respeito mútuo.\n\n\n\n\nAs nossas vagas são destinadas para pessoas de diferentes grupos, incluindo mulheres, pessoas negras, LGBTQIAPN+, pessoas com deficiência ou demais grupos sub-representados.",
+      "responsabilidades": [
+        "Atender/direcionar/acompanhar chamados técnicos relacionados aos sistemas corporativos;",
+        "Diagnosticar e resolver incidentes e problemas quando cabível de atuação direta e não do fornecedor;",
+        "Documentar soluções, procedimentos e rotinas de atendimento."
+      ],
+      "requisitosObrigatorios": [
+        "Ensino Superior Completo;",
+        "Seja organizado(a);",
+        "Tenha boa comunicação e postura de serviço ao cliente;",
+        "Saiba trabalhar de forma colaborativa com áreas de negócio e times técnicos;",
+        "Tenha perfil orientado a resultados e melhoria contínua;",
+        "Seja proativo na identificação de pontos de melhoria e automação;",
+        "Vivência com atendimento de chamados e resolução de incidentes;",
+        "Participação na estruturação ou melhoria de processos de suporte será um diferencial.",
+        "Local de trabalho: Escritório Corporativo Vila Olímpia"
+      ],
+      "requisitosDesejaveis": [],
+      "formacao": [
+        "Ensino Superior Completo;"
+      ],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [],
+      "conhecimentos": [],
+      "idiomas": [],
+      "beneficios": [],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista de Logística Junior",
+      "empresa": "Confidencial",
+      "local": "Rio de Janeiro / RJ",
+      "modalidade": "Presencial",
+      "nivel": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2833383/analista-de-logistica-junior",
+      "descricao": "Faixa salarial a combinar\nRio de Janeiro \nRegime CLT\nBenefícios\n \nDescrição\nAssistência médica\nAssistência odontológica\nAuxílio farmácia\nSeguro de vida\nVale-alimentação\nVale-refeição\nVale-transporte\n Ver todos\n\nDescrição:\nAcompanhamento de KPIs com acompanhamentos próprios e da Torre Intralogística;\nSuporte ativo às filiais na operação;\nSuporte ativo às filiais no WMS;\nMelhoria contínua de fluxos e processos;\nMitigar riscos operacionais e antecipar impactos monitorando tendências, restrições e desvios operacionais, propondo ações preventivas e planos de contingência;\nAgregar a projetos de otimização logística participando de iniciativas multifuncionais voltadas à redução de custos, aumento da produtividade e evolução dos processos.\n\nOutros requisitos:\nInformática (Word, Power Point, Outlook);\nDomínio em Excel avançado.",
+      "responsabilidades": [
+        "Acompanhamento de KPIs com acompanhamentos próprios e da Torre Intralogística;",
+        "Suporte ativo às filiais na operação;",
+        "Suporte ativo às filiais no WMS;",
+        "Melhoria contínua de fluxos e processos;",
+        "Mitigar riscos operacionais e antecipar impactos monitorando tendências, restrições e desvios operacionais, propondo ações preventivas e planos de contingência;",
+        "Agregar a projetos de otimização logística participando de iniciativas multifuncionais voltadas à redução de custos, aumento da produtividade e evolução dos processos."
+      ],
+      "requisitosObrigatorios": [
+        "Informática (Word, Power Point, Outlook);",
+        "Domínio em Excel avançado."
+      ],
+      "requisitosDesejaveis": [],
+      "formacao": [],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [
+        "WMS",
+        "Word",
+        "Excel",
+        "Power Point",
+        "Outlook"
+      ],
+      "conhecimentos": [],
+      "idiomas": [],
+      "beneficios": [
+        "Assistência médica",
+        "Assistência odontológica",
+        "Auxílio farmácia",
+        "Seguro de vida",
+        "Vale-alimentação",
+        "Vale-refeição",
+        "Vale-transporte"
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista Administrativo Júnior",
+      "empresa": "Confidencial",
+      "local": "Rio de Janeiro / RJ",
+      "modalidade": "Presencial",
+      "nivel": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2830117/analista-administrativo-junior",
+      "descricao": "Faixa salarial R$ 4.000 a R$ 4.100\nRio de Janeiro \nRegime CLT\nBenefícios\n \nDescrição\nAssistência médica\nAssistência odontológica\nConvênio com empresas parceiras\nGinástica laboral\nVale-alimentação\nVale-refeição\nVale-transporte\n Ver todos\n\nDescrição:\n\nExperiência:\n\n\n\n\nPreparo de relatórios\nPreparo de Apresentações\nAtendimento ao Cliente;\nSistema Totvs (desejável)\n\n\n\n\nAtribuições:\n\n\n\n\nPreparo de relatórios;\nPreparo de Apresentações em Power Point;\nPreparo de diagnósticos e métricas;\nApoio e acompanhamento dos trabalhos das assistentes administrativas;\nAtendimento ao cliente quando necessário;\nSuporte aos operadores de teleatendimento;\nApoio e preparo das pesquisas de satisfação;\nMonitorar a operação pelo sistema de telefonia;\nMonitorar a operação pelo sistema de Qualidade;\nInteragir com as demais áreas para tratativas das demandas;\nAcompanhar e atualizar as informações do Banco do Conhecimento e informativos internos;\nConfeccionar Cases para proposta de treinamento;\nSuporte a Coordenação.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOutros requisitos:\n\nPerfilm Comportamental:\n\n\n\n\nRelacionamento Interpessoal,\nFoco no cliente\nBoa comunicação escrita e verbal,\nPró-atividade,\nImparcialidade;\nInteligência emocional.",
+      "responsabilidades": [
+        "Convênio com empresas parceiras",
+        "Ginástica laboral",
+        "Experiência:",
+        "Preparo de relatórios",
+        "Preparo de Apresentações",
+        "Atendimento ao Cliente;",
+        "Sistema Totvs (desejável)",
+        "Preparo de relatórios;",
+        "Preparo de Apresentações em Power Point;",
+        "Preparo de diagnósticos e métricas;",
+        "Apoio e acompanhamento dos trabalhos das assistentes administrativas;",
+        "Atendimento ao cliente quando necessário;",
+        "Suporte aos operadores de teleatendimento;",
+        "Apoio e preparo das pesquisas de satisfação;",
+        "Monitorar a operação pelo sistema de telefonia;",
+        "Monitorar a operação pelo sistema de Qualidade;",
+        "Interagir com as demais áreas para tratativas das demandas;",
+        "Acompanhar e atualizar as informações do Banco do Conhecimento e informativos internos;",
+        "Confeccionar Cases para proposta de treinamento;",
+        "Suporte a Coordenação."
+      ],
+      "requisitosObrigatorios": [
+        "Perfilm Comportamental:",
+        "Relacionamento Interpessoal,",
+        "Foco no cliente",
+        "Boa comunicação escrita e verbal,",
+        "Pró-atividade,",
+        "Imparcialidade;",
+        "Inteligência emocional."
+      ],
+      "requisitosDesejaveis": [],
+      "formacao": [],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [
+        "Totvs",
+        "Power Point"
+      ],
+      "conhecimentos": [],
+      "idiomas": [],
+      "beneficios": [
+        "Assistência médica",
+        "Assistência odontológica",
+        "Vale-alimentação",
+        "Vale-refeição",
+        "Vale-transporte"
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista de Planejamento Júnior",
+      "empresa": "Tetra Tech América do Sul",
+      "local": "São Paulo / SP",
+      "modalidade": "Híbrido",
+      "nivel": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2836067/analista-de-planejamento-junior",
+      "descricao": "Faixa salarial a combinar\nSão Paulo \nRegime CLT\nBenefícios\n \nDescrição\n \nEmpresa\nAssistência médica\nAssistência odontológica\nAuxílio academia\nAuxílio creche\nHorário flexível\nSeguro de vida\nVale-refeição\nVale-transporte\n Ver todos\n\nDescrição:\n\nVenha fazer parte do nosso time de especialistas!\n\n\n\n\nEstamos em busca de um/a Analista de Planejamento Júnior, com formação em Administração, e com experiência em planejamento e controle de projetos, para atuar em São Paulo/SP no formato híbrido.\n\n\n\n\n\n\n\nSomos reconhecidos pela GPTW (Great Place To Work) como uma das melhores empresas para se trabalhar na América do Sul e pela credibilidade técnica dos nossos projetos #LiderandocomCiencia. Na Tetra Tech as pessoas colaboram, atuam em projetos multidisciplinares e desafiadores. Aqui respeitamos e valorizamos as diferenças.\n\n \n\nSeus principais desafios serão:\n\n\n\n\nPrestar suporte às equipes de gerenciamento de projetos e apoiar a gestão de todo o ciclo de vida dos projetos, conforme os padrões do Sistema de Gestão Integrado (SGI) da Tetra Tech;\nAuxiliar na elaboração e atualização de cronogramas, EAP's (Estrutura Analítica do Projeto), curvas de progresso, listas de documentos e demais controles para o devido acompanhamento dos projetos, mantendo as equipes informadas quanto aos prazos e andamento dos projetos;\nParticipar da atualização de registros e controles de todas as pendências do projeto;\nApoiar com os controles e gerenciamento de custos, recursos, investimentos, previsão de faturamentos, contratos, medições, performance financeira e prover suporte administrativo em geral, visando auxiliar os gerentes de projeto no controle dos projetos;\nRealizar as atividades e rotinas garantindo a excelência operacional e atendimento aos requisitos do SGI e cliente;\n\n\n\n\nEsperamos que você tenha:\n\n\n\n\nPacote Office – Intermediário;\nMicrosoft Project – Intermediário;\nConhecimentos das técnicas de planejamento, voltadas para o levantamento de informações para atualização de cronogramas, histogramas de recursos (mão-de-obra e equipamentos), etc.\nConhecimento básico em inglês.\nEnsino superior completo em Administração.\n\n\n\n\nÉ considerado diferencial:\n\n\n\n\nPós graduação em Gestão de Projetos;\nConhecimento em metodologias ágeis;\nExperiência em consultoria ambiental.\nEmpresa\n\nA Tetra Tech América do Sul trabalha de forma integrada, para que possamos oferecer as soluções mais inteligentes. Nosso grupo é formado por especialistas, referências nas áreas em que atuam. De forma colaborativa, visamos todos os aspectos do projeto. Nosso objetivo é ir além das expectativas de nossos clientes, pensando de forma inovadora e enxergando mais longe.\n\n\n\n\nNosso negócio está segmentado em oito grandes áreas: Análise Ambiental e Socioterritorial, Auditoria e Gestão Ambiental, Engenharia, Planejamento de Mina, Geotecnia, Geotecnologias, Investigação e Remediação Ambiental e Oceanografia, Engenharia Costeira e Recursos Hídricos.\n\n \n\nConheça um pouco mais sobre a nossa empresa e nos siga nas redes sociais: \n\n- LinkedIn da Tetra Tech America do Sul: https://www.linkedin.com/showcase/tetra-tech-america-do-sul/\n\n- Facebook da Tetra Tech America do Sul: https://www.facebook.com/TetraTechAmericadoSul",
+      "responsabilidades": [
+        "Venha fazer parte do nosso time de especialistas!",
+        "Estamos em busca de um/a Analista de Planejamento Júnior, com formação em Administração, e com experiência em planejamento e controle de projetos, para atuar em São Paulo/SP no formato híbrido.",
+        "Somos reconhecidos pela GPTW (Great Place To Work) como uma das melhores empresas para se trabalhar na América do Sul e pela credibilidade técnica dos nossos projetos #LiderandocomCiencia. Na Tetra Tech as pessoas colaboram, atuam em projetos multidisciplinares e desafiadores. Aqui respeitamos e valorizamos as diferenças.",
+        "Seus principais desafios serão:",
+        "Prestar suporte às equipes de gerenciamento de projetos e apoiar a gestão de todo o ciclo de vida dos projetos, conforme os padrões do Sistema de Gestão Integrado (SGI) da Tetra Tech;",
+        "Auxiliar na elaboração e atualização de cronogramas, EAP's (Estrutura Analítica do Projeto), curvas de progresso, listas de documentos e demais controles para o devido acompanhamento dos projetos, mantendo as equipes informadas quanto aos prazos e andamento dos projetos;",
+        "Participar da atualização de registros e controles de todas as pendências do projeto;",
+        "Apoiar com os controles e gerenciamento de custos, recursos, investimentos, previsão de faturamentos, contratos, medições, performance financeira e prover suporte administrativo em geral, visando auxiliar os gerentes de projeto no controle dos projetos;",
+        "Realizar as atividades e rotinas garantindo a excelência operacional e atendimento aos requisitos do SGI e cliente;",
+        "Esperamos que você tenha:",
+        "Pacote Office – Intermediário;",
+        "Microsoft Project – Intermediário;",
+        "Conhecimentos das técnicas de planejamento, voltadas para o levantamento de informações para atualização de cronogramas, histogramas de recursos (mão-de-obra e equipamentos), etc.",
+        "Conhecimento básico em inglês.",
+        "Ensino superior completo em Administração.",
+        "É considerado diferencial:",
+        "Pós graduação em Gestão de Projetos;",
+        "Conhecimento em metodologias ágeis;",
+        "Experiência em consultoria ambiental."
+      ],
+      "requisitosObrigatorios": [],
+      "requisitosDesejaveis": [],
+      "formacao": [
+        "Ensino superior completo em Administração.",
+        "Pós graduação em Gestão de Projetos;"
+      ],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [
+        "Office",
+        "Pacote Office"
+      ],
+      "conhecimentos": [
+        "Metodologias ágeis"
+      ],
+      "idiomas": [],
+      "beneficios": [
+        "Assistência médica",
+        "Assistência odontológica",
+        "Auxílio creche",
+        "Seguro de vida",
+        "Vale-refeição",
+        "Vale-transporte"
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista Contábil Júnior",
+      "empresa": "Grupo Guanabara",
+      "local": "Rio de Janeiro / RJ",
+      "modalidade": "Presencial",
+      "nivel": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2825790/analista-contabil-junior",
+      "descricao": "Faixa salarial a combinar\nRio de Janeiro \nRegime CLT\nBenefícios\n \nDescrição\n \nEmpresa\nAssistência médica\nVale-alimentação\nVale-refeição\nVale-transporte\n\nDescrição:\n\nEstamos em busca de um(a) Analista Contábil Júnior para integrar nosso time.\n\n\n\n\nPrincipais responsabilidades:\n\n\n\n\nRealizar lançamentos e conciliações contábeis;\n\nApoiar na elaboração de balancetes e demonstrações financeiras;\n\nAnalisar contas contábeis e identificar inconsistências;\n\nAuxiliar na contabilização da folha de pagamento;\n\nApoiar o controle de custos de estoque e ativo imobilizado;\n\nPrestar suporte às áreas de Controladoria e Financeiro;\n\nAtender demandas de auditoria interna e externa.\n\n\nOutros requisitos:\n\nRequisitos:\n\n\n\n\nEnsino Superior completo em Ciências Contábeis;\n\nRegistro ativo no CRC;\n\nExperiência na área contábil;\n\nConhecimento em fechamento e análises contábeis;\n\nPacote Office intermediário/avançado.\n\n\n\n\nDiferenciais:\n\nConhecimento em IFRS/Pronunciamentos Contábeis.\n\nEmpresa\n\nO Grupo Guanabara é um dos maiores conglomerados de empresas do Brasil, que atua nos segmentos de transporte, financeiro, imobiliário e Hoteleiro. Somos a maior empresa de transporte de passageiros do Brasil, nos segmentos rodoviário, intermunicipal e urbano, com cerca de 20 mil colaboradores, nossa frota transporta mais de dois milhões de passageiros por dia.",
+      "responsabilidades": [
+        "Estamos em busca de um(a) Analista Contábil Júnior para integrar nosso time.",
+        "Realizar lançamentos e conciliações contábeis;",
+        "Apoiar na elaboração de balancetes e demonstrações financeiras;",
+        "Analisar contas contábeis e identificar inconsistências;",
+        "Auxiliar na contabilização da folha de pagamento;",
+        "Apoiar o controle de custos de estoque e ativo imobilizado;",
+        "Prestar suporte às áreas de Controladoria e Financeiro;",
+        "Atender demandas de auditoria interna e externa."
+      ],
+      "requisitosObrigatorios": [
+        "Ensino Superior completo em Ciências Contábeis;",
+        "Registro ativo no CRC;",
+        "Experiência na área contábil;",
+        "Conhecimento em fechamento e análises contábeis;",
+        "Pacote Office intermediário/avançado."
+      ],
+      "requisitosDesejaveis": [
+        "Conhecimento em IFRS/Pronunciamentos Contábeis."
+      ],
+      "formacao": [
+        "Ensino Superior completo em Ciências Contábeis;"
+      ],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [
+        "Office",
+        "Pacote Office"
+      ],
+      "conhecimentos": [],
+      "idiomas": [],
+      "beneficios": [
+        "Assistência médica",
+        "Vale-alimentação",
+        "Vale-refeição",
+        "Vale-transporte"
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista de Pessoal Júnior",
+      "empresa": "ALLOS",
+      "local": "Rio de Janeiro / RJ",
+      "modalidade": "Híbrido",
+      "nivel": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2837092/analista-de-pessoal-junior",
+      "descricao": "Faixa salarial a combinar\nRio de Janeiro \nRegime CLT\nBenefícios\n \nDescrição\n \nEmpresa\nAssistência médica\nAssistência odontológica\nAuxílio academia\nParticipação nos Lucros ou Resultados\nPrograma de treinamentos\nSeguro de vida\nVale-alimentação\nVale-refeição\nVale-transporte\n Ver todos\n\nDescrição:\n\nResponsabilidades e atribuições:\n\nRealizar a apuração e o tratamento do ponto eletrônico;\nAnalisar e lançar justificativas, abonos e ocorrências de ponto (faltas, atrasos, horas extras, banco de horas, afastamentos, etc.);\nAcompanhar o fechamento mensal do ponto e garantir a correta integração com a folha de pagamento;\nDar suporte aos colaboradores e gestores quanto a dúvidas relacionadas ao controle de jornada;\nAuxiliar na conferência de escalas, jornadas e espelhos de ponto;\nApoiar na geração de relatórios gerenciais e indicadores relacionados ao ponto;\nParticipar de auditorias internas e externas relacionadas ao controle de jornada.\n\n\n\n\nRequisitos e qualificações:\n\nSuperior completo em Administração, RH ou áreas correlatas;\nExperiência anterior com apuração e tratamento de ponto eletrônico;\nConhecimento básico da legislação trabalhista referente à jornada de trabalho;\nFamiliaridade com sistemas de ponto (ex: Norber ou outros);\nExcel intermediário (filtros, PROCV, tabela dinâmica serão diferenciais);\nOrganização, atenção aos detalhes e preocupação com a qualidade no atendimento.\n\n\n\n\nLocal de Trabalho: Escritório Tijuca.\n\nEscala de Trabalho: 5x2.\n\nModelo de Trabalho: Híbrido.\n\nEmpresa\n\nSOMOS A LÍDER NA ADMINISTRAÇÃO DE SHOPPINGS DO BRASIL!\n\n\n\n\nALLOS é uma marca com uma forte herança. São 50 anos de experiência, transformando o mercado no Brasil. Somos referência em excelência e inovação, com a qualidade e confiança que faz parte da nossa história.\n\n\n\n\nA nova marca surgiu pronta para o futuro, a partir da fusão entre a Aliansce Sonae e a brMalls, em 2023. Mas, essa trajetória começou bem antes.\n\n\n\n\nTudo começou com a Aliansce, que inaugurou o primeiro shopping da região Nordeste e o segundo do Brasil em 1975. Em 2019, a fusão entre a Aliansce e a Sonae Sierra deu origem à Aliansce Sonae, tornando-se líder na administração de shoppings no Brasil, com 32 empreendimentos. Em 2006, surge a brMalls resultando em um portfólio de 30 ativos presentes nas cinco regiões do país.\n\n\n\n\nE assim, em 2023, a ALLOS surge com o encontro de duas potências nacionais do segmento, unindo forças para se tornar a mais inovadora plataforma de entretenimento, lifestyle, serviços e compras.\n\n\n\n\nNossa história continua e estamos prontos para criar momentos que transformam e impactam a vida das pessoas, gerando conexões e oportunidades.\n\n\n\n\nDIVERSIDADE, EQUIDADE E INCLUSÃO\n\n\n\n\nA ALLOS está comprometida com a criação e fomento de um ambiente de trabalho diverso, que acolha pessoas de raças, etnias, gêneros, origens, vivências e perfis variados, priorizando a inclusão social, a redução das desigualdades e práticas empregatícias justas, que promovam a igualdade de oportunidades.\n\n\n\n\nEsperamos que todos os colaboradores, de qualquer cargo ou hierarquia, sintam-se acolhidos e se orientem pelo respeito mútuo.\n\n\n\n\nAs nossas vagas são destinadas para pessoas de diferentes grupos, incluindo mulheres, pessoas negras, LGBTQIAPN+, pessoas com deficiência ou demais grupos sub-representados.",
+      "responsabilidades": [
+        "Realizar a apuração e o tratamento do ponto eletrônico;",
+        "Analisar e lançar justificativas, abonos e ocorrências de ponto (faltas, atrasos, horas extras, banco de horas, afastamentos, etc.);",
+        "Acompanhar o fechamento mensal do ponto e garantir a correta integração com a folha de pagamento;",
+        "Dar suporte aos colaboradores e gestores quanto a dúvidas relacionadas ao controle de jornada;",
+        "Auxiliar na conferência de escalas, jornadas e espelhos de ponto;",
+        "Apoiar na geração de relatórios gerenciais e indicadores relacionados ao ponto;",
+        "Participar de auditorias internas e externas relacionadas ao controle de jornada."
+      ],
+      "requisitosObrigatorios": [
+        "Superior completo em Administração, RH ou áreas correlatas;",
+        "Experiência anterior com apuração e tratamento de ponto eletrônico;",
+        "Conhecimento básico da legislação trabalhista referente à jornada de trabalho;",
+        "Familiaridade com sistemas de ponto (ex: Norber ou outros);",
+        "Excel intermediário (filtros, PROCV, tabela dinâmica serão diferenciais);",
+        "Organização, atenção aos detalhes e preocupação com a qualidade no atendimento.",
+        "Local de Trabalho: Escritório Tijuca.",
+        "Escala de Trabalho: 5x2.",
+        "Modelo de Trabalho: Híbrido."
+      ],
+      "requisitosDesejaveis": [],
+      "formacao": [
+        "Superior completo em Administração, RH ou áreas correlatas;"
+      ],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [
+        "Excel"
+      ],
+      "conhecimentos": [],
+      "idiomas": [],
+      "beneficios": [
+        "Assistência médica",
+        "Assistência odontológica",
+        "Participação nos Lucros ou Resultados",
+        "Seguro de vida",
+        "Vale-alimentação",
+        "Vale-refeição",
+        "Vale-transporte"
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista Contábil Júnior",
+      "empresa": "JOBCENTER DO BRASIL LTDA",
+      "local": "São Paulo / SP",
+      "modalidade": "Remoto",
+      "nivel": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2835927/analista-contabil-junior",
+      "descricao": "Faixa salarial a combinar\nSão Paulo \nTemporário\nBenefícios\n \nDescrição\n \nEmpresa\nAssistência médica\nSeguro de vida\nVale-alimentação\nVale-refeição\nVale-transporte\n\nDescrição:\n\nSomos a Jobcenter Consultoria de Recursos Humanos e estamos auxiliando nosso cliente a encontrar uma pessoa Analista Contábil Júnior.\n\n\n\n\nPrincipais responsabilidades:\n\n• Executar rotinas contábeis operacionais relacionadas a conciliações contábeis de contas patrimoniais (Bancos, folha de pagamento, fornecedores e outras).\n\n• Realizar atividades de controles internos da área, contribuindo para a qualidade, integridade e tempestividade das informações reportadas pela área.\n\n• Atuar no suporte às atividades relacionadas ao Sped contábil.\n\n• Cumprir políticas corporativas, treinamentos obrigatórios e procedimentos internos.\n\n\n\n\nRequisitos obrigatórios:\n\n• Experiência em conciliação bancária e folha de pagamento.\n\n• Conhecimento dos princípios de contabilidade (inclusive CPCs), estrutura do balanço e resultado.\n\n• Excel intermediário.\n\n• Ensino superior cursando.\n\n\n\n\nOutras informações:\n\n• Salário + benefícios (Vale Transporte, Vale Refeição, Vale Alimentação, Assistência Médica e Seguro de Vida).\n\n• Escala de Trabalho: De segunda a sexta.\n\n• Horário de Trabalho: 09:00 às 18:00hs.\n\n• Local de Trabalho: Vila Olímpia - SP | modelo híbrido (3x presenciais e 2x home office).\n\n• Contrato temporário em torno de 6 meses.\n\nEmpresa\n\nMelhor fornecedora de temporários e terceirizados do país.",
+      "responsabilidades": [
+        "Somos a Jobcenter Consultoria de Recursos Humanos e estamos auxiliando nosso cliente a encontrar uma pessoa Analista Contábil Júnior.",
+        "Executar rotinas contábeis operacionais relacionadas a conciliações contábeis de contas patrimoniais (Bancos, folha de pagamento, fornecedores e outras).",
+        "Realizar atividades de controles internos da área, contribuindo para a qualidade, integridade e tempestividade das informações reportadas pela área.",
+        "Atuar no suporte às atividades relacionadas ao Sped contábil.",
+        "Cumprir políticas corporativas, treinamentos obrigatórios e procedimentos internos."
+      ],
+      "requisitosObrigatorios": [
+        "Experiência em conciliação bancária e folha de pagamento.",
+        "Conhecimento dos princípios de contabilidade (inclusive CPCs), estrutura do balanço e resultado.",
+        "Excel intermediário.",
+        "Ensino superior cursando.",
+        "Outras informações:",
+        "Escala de Trabalho: De segunda a sexta.",
+        "Horário de Trabalho: 09:00 às 18:00hs.",
+        "Local de Trabalho: Vila Olímpia - SP | modelo híbrido (3x presenciais e 2x home office).",
+        "Contrato temporário em torno de 6 meses."
+      ],
+      "requisitosDesejaveis": [],
+      "formacao": [
+        "Ensino superior cursando."
+      ],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [
+        "Office",
+        "Excel"
+      ],
+      "conhecimentos": [],
+      "idiomas": [],
+      "beneficios": [
+        "Assistência médica",
+        "Seguro de vida",
+        "Vale-alimentação",
+        "Vale-refeição",
+        "Vale-transporte",
+        "Salário + benefícios (Vale Transporte, Vale Refeição, Vale Alimentação, Assistência Médica e Seguro de Vida)."
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    },
+    {
+      "titulo": "Analista Fiscal Junior",
+      "empresa": "Razac",
+      "local": "São Paulo / SP",
+      "modalidade": "Presencial",
+      "nivel": "Júnior/Trainee",
+      "link": "https://www.vagas.com.br/vagas/v2835149/analista-fiscal-junior",
+      "descricao": "Faixa salarial a combinar\nSão Paulo \nRegime CLT\nBenefícios\n \nDescrição\n \nEmpresa\nAssistência médica\nAssistência odontológica\nDesconto em produtos\nParticipação nos Lucros ou Resultados\nVale-refeição\nVale-transporte\n\nDescrição:\n\nEstamos em busca de um(a) Analista Fiscal Júnior para fazer parte do nosso time, se você possui perfil analítico, atenção aos detalhes e busca atuar em um ambiente dinâmico e em crescimento, essa oportunidade pode ser para você.\n\n\n\n\nPrincipais atividades:\n\nRealizar o lançamento e a conferência de notas fiscais;\nEfetuar a apuração de impostos, garantindo a correta aplicação da legislação vigente;\nRevisar e validar as apurações fiscais, identificando e corrigindo possíveis divergências;\nPreparar e realizar a entrega das obrigações acessórias dentro dos prazos estabelecidos;\nPrestar suporte e atendimento às auditorias, disponibilizando documentos e informações necessárias e esclarecendo eventuais questionamentos.\n\n\n\n\nRequisitos:\n\nEnsino superior completo ou cursando em Administração, ou áreas correlatas;\nCuriosidade e interesse em compreender processos, identificar oportunidades e propor melhorias;\nSenso de urgência e capacidade para gerenciar múltiplas demandas e prioridades simultaneamente;\nBoa comunicação e habilidade para atuar em interface com equipes multidisciplinares;\nProatividade, atenção aos detalhes e comprometimento com prazos e qualidade das entregas.\n\n\n\n\nSe você é um profissional motivado e apaixonado pela área Fiscal no comércio exterior, queremos conhecer você. Clique no botão “Candidate-se” abaixo e envie sua inscrição.\n\nEmpresa\n\nSomos a Razac, uma empresa brasileira de comércio internacional com quase 20 anos de história que conecta pessoas, mercados e oportunidades ao redor do mundo. Atuamos em diferentes frentes de importação, com soluções sob medida, projetos complexos e inteligência logística. Por aqui resultado nunca vem sozinho: acreditamos em relações de confiança, colaboração no dia a dia e um jeito mais humano de fazer negócios.",
+      "responsabilidades": [
+        "Estamos em busca de um(a) Analista Fiscal Júnior para fazer parte do nosso time, se você possui perfil analítico, atenção aos detalhes e busca atuar em um ambiente dinâmico e em crescimento, essa oportunidade pode ser para você.",
+        "Realizar o lançamento e a conferência de notas fiscais;",
+        "Efetuar a apuração de impostos, garantindo a correta aplicação da legislação vigente;",
+        "Revisar e validar as apurações fiscais, identificando e corrigindo possíveis divergências;",
+        "Preparar e realizar a entrega das obrigações acessórias dentro dos prazos estabelecidos;",
+        "Prestar suporte e atendimento às auditorias, disponibilizando documentos e informações necessárias e esclarecendo eventuais questionamentos."
+      ],
+      "requisitosObrigatorios": [
+        "Ensino superior completo ou cursando em Administração, ou áreas correlatas;",
+        "Curiosidade e interesse em compreender processos, identificar oportunidades e propor melhorias;",
+        "Senso de urgência e capacidade para gerenciar múltiplas demandas e prioridades simultaneamente;",
+        "Boa comunicação e habilidade para atuar em interface com equipes multidisciplinares;",
+        "Proatividade, atenção aos detalhes e comprometimento com prazos e qualidade das entregas.",
+        "Se você é um profissional motivado e apaixonado pela área Fiscal no comércio exterior, queremos conhecer você. Clique no botão “Candidate-se” abaixo e envie sua inscrição."
+      ],
+      "requisitosDesejaveis": [],
+      "formacao": [
+        "Ensino superior completo ou cursando em Administração, ou áreas correlatas;"
+      ],
+      "experienciaExigida": [],
+      "tecnologias": [],
+      "ferramentas": [],
+      "conhecimentos": [],
+      "idiomas": [],
+      "beneficios": [
+        "Assistência médica",
+        "Assistência odontológica",
+        "Participação nos Lucros ou Resultados",
+        "Vale-refeição",
+        "Vale-transporte"
+      ],
+      "informacoesInsuficientes": false,
+      "motivoInformacoesInsuficientes": ""
+    }
+  ]
+}
